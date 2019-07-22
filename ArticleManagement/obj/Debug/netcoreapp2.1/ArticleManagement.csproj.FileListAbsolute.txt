@@ -1,0 +1,14 @@
+C:\Users\Anıl\source\repos\ArticleManagement\ArticleManagement\bin\Debug\netcoreapp2.1\ArticleManagement.deps.json
+C:\Users\Anıl\source\repos\ArticleManagement\ArticleManagement\bin\Debug\netcoreapp2.1\ArticleManagement.runtimeconfig.json
+C:\Users\Anıl\source\repos\ArticleManagement\ArticleManagement\bin\Debug\netcoreapp2.1\ArticleManagement.runtimeconfig.dev.json
+C:\Users\Anıl\source\repos\ArticleManagement\ArticleManagement\bin\Debug\netcoreapp2.1\ArticleManagement.dll
+C:\Users\Anıl\source\repos\ArticleManagement\ArticleManagement\bin\Debug\netcoreapp2.1\ArticleManagement.pdb
+C:\Users\Anıl\source\repos\ArticleManagement\ArticleManagement\obj\Debug\netcoreapp2.1\ArticleManagement.csprojAssemblyReference.cache
+C:\Users\Anıl\source\repos\ArticleManagement\ArticleManagement\obj\Debug\netcoreapp2.1\ArticleManagement.csproj.CoreCompileInputs.cache
+C:\Users\Anıl\source\repos\ArticleManagement\ArticleManagement\obj\Debug\netcoreapp2.1\ArticleManagement.RazorAssemblyInfo.cache
+C:\Users\Anıl\source\repos\ArticleManagement\ArticleManagement\obj\Debug\netcoreapp2.1\ArticleManagement.RazorAssemblyInfo.cs
+C:\Users\Anıl\source\repos\ArticleManagement\ArticleManagement\obj\Debug\netcoreapp2.1\ArticleManagement.AssemblyInfoInputs.cache
+C:\Users\Anıl\source\repos\ArticleManagement\ArticleManagement\obj\Debug\netcoreapp2.1\ArticleManagement.AssemblyInfo.cs
+C:\Users\Anıl\source\repos\ArticleManagement\ArticleManagement\obj\Debug\netcoreapp2.1\ArticleManagement.RazorTargetAssemblyInfo.cache
+C:\Users\Anıl\source\repos\ArticleManagement\ArticleManagement\obj\Debug\netcoreapp2.1\ArticleManagement.dll
+C:\Users\Anıl\source\repos\ArticleManagement\ArticleManagement\obj\Debug\netcoreapp2.1\ArticleManagement.pdb
